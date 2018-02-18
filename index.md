@@ -2,8 +2,10 @@
 layout: default
 ---
 
-XMC is a high-performance, distributed computer science contest management solution
+[XMC][xmc] is a high-performance, distributed computer science contest management solution
 and educational platform built around modern technologies.
+
+[xmc]: https://github.com/xmc-dev/xmc
 
 XMC is split into several components that can be run as multiple instances
 across many machines to ensure performance and availability. The backend is
