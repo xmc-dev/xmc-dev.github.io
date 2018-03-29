@@ -20,7 +20,7 @@ Work in progress.
 
 Documentation can be found [here][docs].
 
-[docs]: https://xmc.gitbooks.io/xmc-documentation/
+[docs]: https://xmc.gitbook.io/xmc-documentation/
 
 XMC is built by [Tudor Roman][tudurom] and [Ciprian Ionescu][cirip].
 
